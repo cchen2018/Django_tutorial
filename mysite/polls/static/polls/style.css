@@ -1,0 +1,8 @@
+li a {
+    color: black;
+}
+
+body {
+    background: white url("images/background.gif") no-repeat center bottom;
+    banner: white url("images/banner.gif") no-repeat center top;
+}
