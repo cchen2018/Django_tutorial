@@ -1,8 +1,15 @@
-li a {
-    color: black;
+li {
+    text-align: center;
+    list-style-type: none;
 }
 
-body {
-    background: white url("images/background.gif") no-repeat center bottom;
-    banner: white url("images/banner.gif") no-repeat center top;
+li a {
+    color: navy;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
